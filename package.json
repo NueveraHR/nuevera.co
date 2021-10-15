@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Nuevera",
   "author": "Wassim Bougarfa",
+  "engines": {
+    "node": "12.x"
+  },
   "contributors": [
     "Pasquale Vitiello <pasqualevitiello@gmail.com>"
   ],
