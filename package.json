@@ -18,7 +18,10 @@
     "url": "https://github.com/NueveraHR/nuevera.co"
   },
   "scripts": {
-    "build": ""
+    "start": "serve"
+  },
+  "dependencies": {
+    "serve": "^12.0.1"
   },
   "devDependencies": {},
   "homepage": "https://bitbucket.org/pasqualevitiello/april#readme",
